@@ -37,7 +37,7 @@ class PolygonId {
 }
 
 /// Draws a polygon through geographical locations on the map.
-@immutable
+//@immutable
 class Polygon {
   /// Creates an immutable representation of a polygon through geographical locations on the map.
   const Polygon({

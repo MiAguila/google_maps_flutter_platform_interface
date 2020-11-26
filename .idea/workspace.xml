@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6318e35-ceda-437e-8e1b-c86212f48361" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/events/map_event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/events/map_event.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/method_channel/method_channel_google_maps_flutter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/method_channel/method_channel_google_maps_flutter.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/platform_interface/google_maps_flutter_platform.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/platform_interface/google_maps_flutter_platform.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/platform_interface/google_maps_flutter_platform_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/platform_interface/google_maps_flutter_platform_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/types/bitmap_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/types/bitmap_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/types/polygon.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/types/polygon.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
